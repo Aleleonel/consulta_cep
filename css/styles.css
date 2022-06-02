@@ -115,3 +115,15 @@
     background-color: var(--secondary-bg-color);
     color: var(--text-color);
 }
+
+#order-form-container input:focus {
+    border-color: var(--secondary-color);
+}
+
+#save-btn {
+    background-color: #25cc88;
+    border: none;
+    height: 3em;
+    width: 8em;
+    border-radius: 1.5em;
+}
